@@ -1,0 +1,17 @@
+body {
+	font-family: monospace;
+    text-align: center;
+    text-transform: uppercase;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 20rem;
+}
+
+h3 {
+    text-align: center;
+    text-transform: none;
+}
